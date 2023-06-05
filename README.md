@@ -1,2 +1,4 @@
-# Epicode_M6D2FE
-Frontend relativo al giorno D2 del modulo M6
+# EPICODE BLOG TEMPLATE
+
+- Updated to Reac18
+- Changes quill to draftjs
